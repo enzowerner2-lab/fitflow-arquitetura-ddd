@@ -1,0 +1,10 @@
+{
+  "eventId": "uuid-v4",
+  "type": "workout.published.v1",
+  "version": 1,
+  "occurredAt": "2026-10-29T12:00:00.000Z",
+  "payload": {
+    "workoutId": 123,
+    "authorId": 7
+  }
+}
